@@ -36,6 +36,17 @@ Tree-based models (like CatBoost) are excellent at learning seasonal patterns bu
 *   **Data Processing:** Pandas, NumPy
 *   **Visualization:** Matplotlib, Seaborn
 
+## 📚 Data Source
+
+Historical daily weather data used in this project is sourced from:
+
+*   **Dataset:** [Indonesia Daily Weather — 31 Cities](https://www.kaggle.com/datasets/danielaijdkx/indonesia-daily-weather-31-cities?resource=download&select=idn_weather_daily.csv)
+*   **File:** `idn_weather_daily.csv`
+*   **Provider:** danielaijdkx (Kaggle)
+*   **Coverage:** up to **25 October 2026**
+*   **Used for:** historical `temperature_2m_mean` observations and daily weather parameters across 31 cities in Indonesia.
+
+
 ## 💻 How to Run Locally
 
 1. **Clone the repository:**
